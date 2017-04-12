@@ -1,0 +1,19 @@
+{
+  "name": "orange-blaster",
+  "version": "1.0.0",
+  "description": "Host server for indico arduino client",
+  "repository": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "indico.io": "^0.10.5",
+    "node-webcam": "git://github.com/chuckfairy/node-webcam.git",
+    "serialport": "^4.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tori Holmes-Kirk",
+  "license": "AFL-3.0"
+}
